@@ -15,8 +15,8 @@
                   <div class="navbar-nav ml-auto">
                     <a class="nav-item nav-link active" href="#">INICIO <span class="sr-only"></span></a>
                     <a class="nav-item nav-link" href="https://es.wikipedia.org/wiki/Ubal%C3%A1#Historia">HISTORIA</a>
-                    <a class="nav-item nav-link" href="../html/pagina2.php">SITIOS TURISTICOS</a>
-                    <a class="nav-link" href="..//cliente/add.php"> VENTA DE INMUEBLES </a>
+                    <a class="nav-item nav-link" href="./html/pagina2.php">SITIOS TURISTICOS</a>
+                    <a class="nav-link" href="./cliente/add.php"> VENTA DE INMUEBLES </a>
                   </div>
                 </div>
             </div>
